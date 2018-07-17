@@ -1,0 +1,21 @@
+body {
+  background-color:Bisque;
+  font-family:"Book Antiqua", "Palatino", "serif";
+
+}
+
+img {
+  border-style:dotted;
+  border-color:black:
+  border: 2px solid #73AD21;
+  padding: 20px;
+}
+
+h1 {
+  color:Blue;
+  font-size: 90px;
+}
+ div {
+   color:black;
+   font-size: 15px;
+ }
