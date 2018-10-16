@@ -1,6 +1,7 @@
 body {
   background-color:Bisque;
   font-family:"Book Antiqua", "Palatino", "serif";
+
 }
 
 img {
@@ -14,22 +15,7 @@ h1 {
   color:Blue;
   font-size: 90px;
 }
-div {
+ div {
    color:black;
-   font-size: 25px;
+   font-size: 15px;
  }
-
-li {
-  color: black;
-  font-size: 25px;
-}
-
-a {
-  font-size: 25px;
-}
-
-button {
-  height: 2em;
-  width: 18em;
-  font-size: 18px;
-}
